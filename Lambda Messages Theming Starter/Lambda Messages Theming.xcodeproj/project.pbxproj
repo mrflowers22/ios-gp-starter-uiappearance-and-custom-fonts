@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B4A4F412289CD5400EB6CA5 /* ApperanceHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B4A4F402289CD5400EB6CA5 /* ApperanceHelper.swift */; };
 		4612369A212CDA8D00E7FF73 /* MessageCreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46123699212CDA8D00E7FF73 /* MessageCreationViewController.swift */; };
 		46392CFD212D248800C65AB7 /* rm_typerighter_medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 46392CFC212D244E00C65AB7 /* rm_typerighter_medium.ttf */; };
 		46A2C0F3212B500000E7FF73 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46A2C0F2212B500000E7FF73 /* AppDelegate.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B4A4F402289CD5400EB6CA5 /* ApperanceHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApperanceHelper.swift; sourceTree = "<group>"; };
 		46123699212CDA8D00E7FF73 /* MessageCreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageCreationViewController.swift; sourceTree = "<group>"; };
 		46392CFC212D244E00C65AB7 /* rm_typerighter_medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = rm_typerighter_medium.ttf; sourceTree = "<group>"; };
 		46A2C0EF212B500000E7FF73 /* Lambda Messages Theming.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lambda Messages Theming.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -61,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				46A2C10A212B659500E7FF73 /* AuthenticationHelper.swift */,
+				1B4A4F402289CD5400EB6CA5 /* ApperanceHelper.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				46A2C0F3212B500000E7FF73 /* AppDelegate.swift in Sources */,
 				46A2C10B212B659500E7FF73 /* AuthenticationHelper.swift in Sources */,
 				4612369A212CDA8D00E7FF73 /* MessageCreationViewController.swift in Sources */,
+				1B4A4F412289CD5400EB6CA5 /* ApperanceHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
